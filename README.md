@@ -6,14 +6,11 @@
 
 <a href=https://github.com/ajaybhat/Tensorflow-101/blob/master/1.%20HelloWorld.ipynb>Hello World!</a>
 
-<code>
-import tensorflow as tf
+<code>import tensorflow as tf</code>
 
-with tf.Session() as sess:
+<code>with tf.Session() as sess:</code>
 
-print(sess.run(tf.constant('Hello World!')))
-</code>
-
+<code>     print(sess.run(tf.constant('Hello World!')))</code>
 
 ### Installing Conda
 Anaconda is available for Windows, Mac OS X, and Linux. You can find the installers and installation instructions at <a href="https://www.continuum.io/downloads" target="_blank" data-unsp-sanitized="clean">https://www.continuum.io/downloads</a>
