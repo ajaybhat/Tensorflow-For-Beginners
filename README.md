@@ -7,7 +7,9 @@
 <a href=https://github.com/ajaybhat/Tensorflow-101/blob/master/1.%20HelloWorld.ipynb>Hello World!</a>
 
 <code>import tensorflow as tf</code>
+
 <code>with tf.Session() as sess:</code>
+
 <code>        print(sess.run(tf.constant('Hello World!')))</code>
 
 ### Installing Conda
