@@ -37,3 +37,5 @@ To open Jupyter notebook, Run the following from the root directory of your repo
 <code> conda install --yes --file requirements.txt</code>
 
 Thanks to Udacity and tensorflow.org for text and code samples.
+
+__Please submit a pull request if you'd like to see any changes or additions in this repo.__
